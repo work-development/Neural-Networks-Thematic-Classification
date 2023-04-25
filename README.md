@@ -1,1 +1,1 @@
-# Neural-Networks-Thematic-Classification-
+# Neural Networks Thematic Classification
